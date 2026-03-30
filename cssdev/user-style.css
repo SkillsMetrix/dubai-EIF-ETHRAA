@@ -1,0 +1,29 @@
+ /* Element Selector */
+        table{
+            border-collapse: collapse;
+            width: 60%;
+            margin: auto;
+        }
+       /* ID Selector */
+        #header{
+            text-align: center;
+            color: darkblue;
+        /* class Selector */
+        }.footer{
+            text-align: center;
+            color: palevioletred;
+        }
+        /* group Selector */
+
+        th,td{
+            border: 1px solid darkblue;
+            padding: 5px;
+            text-align: center;
+        }
+        /* descendant selector */
+        table th{
+            color: blue;
+        }
+        tbody td{
+            color: purple;
+        }

@@ -1,0 +1,55 @@
+table{
+    margin: auto;
+    border-collapse: collapse;
+    width: 60%;
+}
+th,td{
+    border: 1px solid darkmagenta;
+    padding: 8px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+form{
+    width: 300px;
+    margin: auto;
+}
+input{
+    width: 100%;
+    padding: 6px;
+    margin: 5px 0;
+}
+button{
+    width: 100%;
+    padding: 8px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+label{
+    color: blue;
+    font-weight: bold;
+}
+tbody tr:hover{
+    background-color: lightgreen;
+}
+img{
+    width: 50px;
+}
+.edit{
+     
+    padding: 4px 8px;
+    background-color: blue;
+    color: yellowgreen;
+    border: none;
+    margin: 2px;
+}
+.delete{
+     
+    padding: 4px 8px;
+    background-color: wheat;
+    color: red;
+    border: none;
+    margin: 2px;
+}

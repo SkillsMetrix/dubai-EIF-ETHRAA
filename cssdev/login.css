@@ -1,0 +1,20 @@
+form{
+    width: 300px;
+    margin: auto;
+}
+input{
+    width: 100%;
+    padding: 6px;
+    margin: 5px 0;
+}
+button{
+    width: 100%;
+    padding: 8px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+label{
+    color: blue;
+    font-weight: bold;
+}
